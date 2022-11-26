@@ -1,0 +1,19 @@
+{
+    "name": "lukesnow91/oneway-checkout",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/lukesnow91/oneway-checkout",
+    "authors": [
+        {
+            "name": "oneway-checkout",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">5.6"
+    }
+}
